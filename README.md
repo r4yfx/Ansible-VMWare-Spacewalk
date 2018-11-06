@@ -5,7 +5,7 @@ Ansible based - auto deploy virtual machines through VMWare and Spacewalk netboo
 ----------
 
 ### Getting started
-* Download all the yml files
+* Download all the *.yml files
 * Please these in your playbook location
 * You will need to edit your ansible hosts file - /etc/ansible/hosts
 
